@@ -1,14 +1,5 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
+build
+components
+node_modules
 
-pids
-logs
-results
-
-npm-debug.log
+*.sublime-*

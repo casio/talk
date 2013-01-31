@@ -1,0 +1,15 @@
+{
+  "name": "talk",
+  "repo": "casio/talk",
+  "description": "Playing with speech recognition",
+  "license": "MIT",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "microjs/q": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
